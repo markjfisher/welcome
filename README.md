@@ -9,7 +9,7 @@ Running make will build the application for all targets by default.
 ### Creating Atari com file of application
 
 ```shell
-# Atari, build and create ATR
+# Atari, build and create COM
 $ make clean all
 ```
 
