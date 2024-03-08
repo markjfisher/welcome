@@ -6,7 +6,7 @@ Extremely simple conio to print messages for things in atari gr.0
 
 Running make will build the application for all targets by default.
 
-### Creating Atari ATR DISK image of application
+### Creating Atari com file of application
 
 ```shell
 # Atari, build and create ATR
